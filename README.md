@@ -27,7 +27,7 @@ I build scalable backend solutions with **Java Spring Boot** and work with relat
 - **[react-gallery-spa](https://github.com/xsoto-developer/react-gallery-spa)**: A single-page application (SPA) built with React for organizing, searching, and visually browsing image collections in an intuitive way.
 - **[react-organizador-tareas](https://github.com/xsoto-developer/react-organizador-tareas)**: A customizable task organizer developed in React. Utilizes React hooks such as useState, useEffect, and useContext for state and behavior management.
 - **[custom-hooks-collection](https://github.com/xsoto-developer/custom-hooks-collection)**: A curated library of custom React hooks designed to simplify and optimize frontend development across different use cases.
-- *(More coming soon as I explore Frontend technologies like React or Angular!)*
+- *(More coming soon as I explore Frontend technologies like Angular!)*
   
 
 ## 📫 Let’s Connect!
