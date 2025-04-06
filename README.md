@@ -6,7 +6,7 @@ I build scalable backend solutions with **Java Spring Boot** and work with relat
 
 ## 🛠️ Skills
 - **Languages & Frameworks**: Java, Spring Boot, React, Node.js
-- **Databases**: MySQL, MongoDB, H2
+- **Databases**: MySQL, Postgres, H2, MongoDB
 - **DevOps Tools**: Docker, Jenkins (learning)
 - **Cloud**: AWS (in progress)
 
