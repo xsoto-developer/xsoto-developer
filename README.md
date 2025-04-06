@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ximena Soto!
-Java Backend Dev | Spring Boot & DevOps fan | Fullstack projects with React & Node.js | CI/CD, Docker & AWS | Passionate about learning & clean code
+Backend Java Developer | Spring Boot enthusiast | Building fullstack apps with React & Node.js | DevOps learner focused on CI/CD, Docker & AWS | Passionate about clean code, design patterns, and continuous growth.
 
 ## 🚀 About Me
 I build scalable backend solutions with **Java Spring Boot** and work with relational/NoSQL databases. I’m diving into **DevOps** (CI/CD, Docker) and preparing for my **AWS Cloud Practitioner** certification. Passionate about clean code and tech growth!
